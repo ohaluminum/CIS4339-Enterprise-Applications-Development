@@ -1,4 +1,5 @@
+# Misc.
 /.DS_Store
 
 # Dependencies
-**node_modules
+node_modules
