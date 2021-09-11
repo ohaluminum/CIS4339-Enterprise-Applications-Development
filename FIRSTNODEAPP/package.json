@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "funnies": "^2.1.0",
+    "word-extractor": "^1.0.4"
+  }
+}
