@@ -4,14 +4,14 @@ const Schema = mongoose.Schema;
 
 let studentSchema = new Schema({
     _id: { 
-        type: String, 
-        default: uuid.v1 
+      type: String, 
+      default: uuid.v1 
     },
     firstName: {
       type: String
     },
     lastName: {
-        type: String
+      type: String
     },
     email: {
       type: String
